@@ -1,0 +1,312 @@
+Introdução ao SCRUM
+Diego Alexandre
+Diego Alexandre
+02/10/2021 20:15
+Projetos Ágeis com SCRUM | Bootcamp: New Talents Everis (.NET)
+Facilitador: Thiago Sano
+Resumo: Diego L. Alexandre
+-------------------------------------------------------------------------------
+
+
+
+Introdução ao SCRUM
+
+
+
+Introdução a Gestão de Projetos e ao SCRUM
+
+Objetivos da aula
+
+·        Conceitos Básicos
+
+·        Papeis e Responsabilidades de cada um no time
+
+·        Cerimônias do SCRUM
+
+Desafios do Desenvolvimento de Software
+
+
+
+Em uma empresa nós temos os OBJETIVOS DE NEGÓCIO e esses objetivos tem REQUISITOS. O cumprimento desses objetivos nos dá o SOFTWARE no modelo tradicional.
+
+O princípio de Pareto nos diz que quando desenvolvemos um software para uma empresa / cliente, apenas 20% daquele software é utilizado.
+
+
+
+Gestão de Projetos: Tradicional x Ágil
+
+Tradicional (Waterfall): só permite que o projeto avance quando uma fase está inteiramente completa.
+
+Escopo definido na fase inicial do projeto (Preditivo)
+Projeto é controlado por fases e marcos
+Cliente só vê o projeto funcionando na fase final do projeto
+Resistência as mudanças.
+
+
+Ágil: software construído por partes (incremental) e cada parte executada em ciclo (iterativo).
+
+Escopo definido ao longo do projeto (Adaptativo)
+Projeto é controlado por funcionalidades entregues
+Cliente pode ver partes do software funcionando na parte inicial do projeto
+Mudanças constantes de acordo com feedbacks contínuos.
+
+
+Em projetos tradicionais (Waterfall), você corre o risco de descobrir que estava errado depois de meses. Com o SCRUM, você descobre que estava errado em no máximo 30 dias.
+
+
+
+O que é ser ágil?
+
+ “Ágil é diferente de rápido”.
+
+·        Rapidez (mudança) e desembaraço.
+
+·        Fazer coisas complexas de forma simples.
+
+·        Equipe comprometida com os objetivos
+
+·        Maior valor para o cliente
+
+“Ter capacidade de responder rapidamente a mudanças”.
+
+
+
+
+
+
+
+SCRUM
+
+
+
+·        SCRUM é um dos frameworks de gerenciamento de projetos ágeis
+
+·        Projetos usando equipes pequenas e multidisciplinares produzem os melhores resultados
+
+
+
+Os pilares do SCRUM
+
+1º Transparência
+
+2º Adaptação
+
+3º Inspeção
+
+
+
+Em termos práticos, o que significam esses três pilares?
+
+Significa:
+
+·        Conversar mais e escrever menos
+
+·        Demonstrar o software constantemente aos usuários e obter feedbacks constantes.
+
+·        Requisitos mudam ao longo do tempo.
+
+·        Aprender progressivamente com o uso do software.
+
+Razões para adotar o SCRUM
+
+·        Desenvolvido e entregue em partes menores (2 a 4 semanas) com constante feedback dos usuários.
+
+·        Melhor gerenciamento de riscos (redução de incertezas).
+
+·        Comprometimento, motivação e transparência da equipe (Daily Meeting).
+
+·        Maior valor para o negócio (Priorização do backlog).
+
+·        Usuários envolvidos durante todo o ciclo.
+
+·        Aplicação das lições aprendidas. (Melhoria contínua)
+
+
+
+Características do TIME SCRUM
+
+·        Equipes capazes de se auto organizarem
+
+·        As tarefas são do time e todos são responsáveis
+
+·        Forte comprometimento com os resultados
+
+Por que as Start Ups utilizam framework ágil?
+
+Porque elas trabalham com MVP – Mínimo Produto Viável.
+
+
+
+
+
+
+
+Parte 2: Papeis e Responsabilidades de cada um do time
+
+Papeis e Responsabilidades
+
+·        Product Owner (PO)
+
+·        Scrum Master (SM)
+
+·        Time de Desenvolvimento (DEV) – composto de 3 a 9 pessoas.
+
+
+
+Product Owner ou PO
+
+·        Representante da área de negócios
+
+·        PO não é um comitê
+
+·        Define as funcionalidades do software (Product backlog)
+
+·        Prioriza as funcionalidades de acordo com o valor do negócio
+
+·        Garante que o time de desenvolvimento entenda os itens do Backlog no nível necessário.
+
+
+
+Scrum Master ou SM
+
+·        Garantir o uso correto do SCRUM
+
+·        Scrum Master não é Gerente de Projetos
+
+·        Age como Facilitador
+
+·        Auxilia o Product Owner no planejamento e estimativas do backlog
+
+·        Auxilia a equipe a remover impedimentos
+
+·        Treina o time em desenvolvimento e interdisciplinaridade. 
+
+
+
+Time de Desenvolvimento ou DEV
+
+·        Possui habilidades suficientes para desenvolver, testar, criar e desenhar, ou seja, tudo o que for necessário para entregar o software funcionando.
+
+
+
+
+
+Parte 3: Cerimônias do SCRUM
+
+
+
+Time Box
+
+Tempo máximo para fazer uma cerimônia ou um Sprint.
+
+ 
+
+Cerimônias do Scrum
+
+·        Sprint (corrida, arrancada) é a principal cerimônia do SCRUM. Duração do Sprint: 30 dias corridos, ou menos.
+
+·        Composição de uma Sprint.
+
+1 -  Planejamento da Sprint
+
+2 - Reuniões Diárias (Daily Meeting)
+
+3 - Revisão da Sprint (Review)
+
+4 - Retrospectiva da Sprint
+
+
+
+Planejamento da Sprint
+
+
+
+Quem participa?
+
+Participam o PO, Time de Desenvolvimento e o Scrum Master.
+
+Time Box: 8 hs. (Sprint 30 dias)
+
+As primeiras 4 horas tem um objetivo, “O que fazer? ”. Nas últimas quatro horas o objetivo é "Como fazer?".
+
+
+
+O que fazer?
+
+O PO (Product Owner) ele priorizou o backlog, ele vai explicar para o time o que ele deseja naquela Sprint. Ou seja, quais são as funcionalidades, o que ele precisa fazer, o que o time precisa entregar naquela Sprint; então ele explica as funcionalidades, explica o porquê nessas 4 horas. O time vai tirar todas as informações necessárias referentes ao negócio para entender o que o PO quer nessa Sprint.
+
+
+
+Como fazer?
+
+Normalmente quem faz é o time de desenvolvimento nas últimas 4 horas, aonde o time de desenvolvimento quebra as atividades e entende tecnicamente o que precisa ser feito e o próprio time ele acaba estimando as atividades. Como fazer para entregar aquilo que o PO deseja.
+
+Nesse planejamento o time pode usar várias ferramentas e técnicas. Uma delas é a planning poker, que ela utiliza baralho e cada um opina uma estimativa de cada tarefa. E o time entra em consenso para definir uma estimativa, um esforço de cada tarefa.
+
+Depois que o time estima todas as tarefas, ele vai realmente verificar se tudo o que o PO queria realmente vai dar para entregar na Sprint. Então o time devolve para o PO o que ele vai conseguir entregar naquela Sprint. 
+
+
+
+Reuniões Diárias (Daily Meeting)
+
+
+
+Time Box: 15 minutos.
+
+Onde participam o Time de Desenvolvimento, o PO e o Scrum Master.
+
+
+
+O Time de Desenvolvimento responde três perguntas:
+
+       1ª O que fez no dia anterior?
+
+        2ª O que está programado (para fazer) no dia?
+
+        3ª Ele tem algum impedimento?
+
+
+
+Essa reunião é feita com todos de pé, no mesmo horário que o time define, por exemplo, às 9:00 hs da manhã e no mesmo local. Essa reunião também é conhecida como Stand Up Meeting.
+
+Observação: essa reunião é feita em pé, porque sentado, as pessoas podem ficar acomodadas, e uma vez acomodadas começam a falar muita coisa (as vezes conteúdo sem relevância alguma para o contexto).
+
+Nessa reunião há também um quadro Kanban, onde o próprio time vai atualizar as tarefas que eles estão fazendo, as tarefas a fazer e as tarefas realizadas
+
+
+
+Isso dá visibilidade, transparência e o time consegue fazer uma inspeção se tudo está ocorrendo dentro do previsto.
+
+
+
+Revisão da Sprint (Sprint Review)
+
+
+
+Time Box: 4 horas. (Sprint 30 dias)
+
+No último dia da Sprint, ocorre uma revisão onde o Time de Desenvolvimento apresenta para o PO o trabalho feito.
+
+O time apresenta tudo o que ele desenvolveu passo a passo, para que que quando for colocado em produção não seja uma surpresa para o PO.
+
+O PO pode levar stakeholders (partes interessadas), mas todo o feedback que é falado o PO precisa priorizar para uma próxima Sprint. Ou seja, como é feito no último dia, não dá mais tempo para alterar o software.
+
+O que o Time DEV apresenta o PO vai aceitar ou não. Se ele aceitar já vai para a produção.
+
+
+
+
+
+
+
+Retrospectiva da Sprint
+
+
+
+Time Box: 3 horas (Sprint de 30 dias)
+
+Reunião da equipe para lições aprendidas.
+
+Essa reunião que a equipe faz também no último dia. Podem participar dela também o PO e o Scrum Master, mas basicamente é uma reunião do Time de Desenvolvimento. É feito uma reunião entre eles no qual todo mundo precisa ser transparente para apontar os erros que a equipe teve, seja no desenvolvimento, seja na review que foi apresentado, seja no planejamento da Sprint ou algo que não foi perguntado para o PO, enfim. Tem que ter transparência para que o time todo fique comprometido, melhore, alcance lições aprendidas para que na próxima Sprint não ocorra mais nenhum problema.
+
+Essa reunião é importante para que todos os membros da equipe estejam na mesma página porque se pelo menos um membro da equipe não estiver comprometido, então o objetivo da Sprint não é cumprida. 

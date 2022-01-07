@@ -1,0 +1,25 @@
+Desmistificando o Android Studio na Prática
+
+Instrutor Pedro Luis
+https://github.com/pedroluis-12
+
+clonar o projeto:
+https://github.com/pedroluis-12/ApplicationWorkApi
+
+Ferramentas e seus tipos que ajudam em melhorar o código:
+
+Manutenção:
+Apply changes and restatrt activity
+Android Profiler
+
+Debugger:
+debug app
+attach debugger --> inseri  bug com app rodando
+evaluate expressions --> app pausada no ponto de interrupção e abre um console para testar metodos e funções
+
+Pesquisas:
+pesquisa de classes --> permite encontrar a classe sem navegar no projeto
+find in path --> permite encontrar qquer tipo de texto, classe, metodo, codigo, etc no projeto
+layout inspector
+
+
